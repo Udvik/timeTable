@@ -40,10 +40,6 @@ tbody td {
     text-align: center;
 }
 
-.multi {
-    font-size: 0.9em;
-    line-height: 1.4;
-}
 
 tbody tr:nth-child(even) td {
     background-color: #eaeaea;
